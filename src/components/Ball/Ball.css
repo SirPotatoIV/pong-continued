@@ -1,0 +1,8 @@
+.ball {
+  border-radius: 50%;
+  height: 20px;
+  width: 20px;
+  background-color: #333;
+  position: absolute;
+  transition: top 0.05s ease 0s, left 0.05s ease 0s;
+}

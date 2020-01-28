@@ -1,0 +1,8 @@
+.brick {
+  position: absolute;
+  height: 60px;
+  width: 20px;
+  background-color: black;
+  /* background-image: url("brick.png"); */
+  border-radius: 4px;
+}

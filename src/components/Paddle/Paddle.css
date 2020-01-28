@@ -1,0 +1,17 @@
+.paddle {
+  height: 100px;
+  width: 25px;
+  background-color: rebeccapurple;
+  border-radius: 4px;
+  position: absolute;
+
+  left: 20px;
+  top: 50%;
+}
+
+.paddle.player2 {
+  background-color: salmon;
+
+  left: auto;
+  right: 20px;
+}
